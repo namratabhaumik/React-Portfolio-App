@@ -52,7 +52,7 @@ const ProjectsSection = () => {
             key={project.title}
             title={project.title}
             description={project.description}
-            url="https://github.com/stockn22/React-Portfolio-App"
+            url="https://github.com/namratabhaumik/React-Portfolio-App"
             imageSrc={project.getImageSrc()}
           />
         ))}
